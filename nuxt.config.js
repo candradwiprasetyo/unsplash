@@ -43,4 +43,8 @@ export default {
     proxyHeaders: false,
     credentials: false
   },
+
+  generate: {
+    dir: 'public'
+  }
 };
